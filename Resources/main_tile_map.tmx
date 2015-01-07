@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="40" height="40" tilewidth="96" tileheight="64">
+ <tileset firstgid="1" name="Untitled_default" tilewidth="96" tileheight="64">
+  <image source="Untitled_default.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="41" name="sand_4_1" tilewidth="96" tileheight="64">
+  <image source="sand_4_1.png" width="96" height="64"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzqENACAQBLALDv3778oKCD6QUFHfSlJcNQ/y8/Pz8/Pz8/PzGxv8/v118/Pz8wOAVywQUmFW
+  </data>
+ </layer>
+</map>
